@@ -16,10 +16,10 @@ The algorithm takes about 4 minutes to run the DIOR promotional video.
 
 ## Areas for Improvement
 
-1. Accelerate the algorithm
-1.1 Reduce the size of the image before detection
-1.2 Define regions of interest to make the algorithm focus on specific areas of the text
-1.3 Compress the image
+#### 1. Accelerate the algorithm
+##### 1.1 Reduce the size of the image before detection
+##### 1.2 Define regions of interest to make the algorithm focus on specific areas of the text
+##### 1.3 Compress the image
 
 2. Detection
 2.1 Testing better pre-trained models
