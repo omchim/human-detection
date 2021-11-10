@@ -21,10 +21,10 @@ The algorithm takes about 4 minutes to run the DIOR promotional video.
 ##### 1.2 Define regions of interest to make the algorithm focus on specific areas of the text
 ##### 1.3 Compress the image
 
-2. Detection
-2.1 Testing better pre-trained models
-2.2 Image preprocessing to isolate the foreground
-2.3 Redefining the confidence threshold for classification 
+#### 2. Detection
+##### 2.1 Testing better pre-trained models
+##### 2.2 Image preprocessing to isolate the foreground
+##### 2.3 Redefining the confidence threshold for classification 
 
-3. Tracking
+#### 3. Tracking
 We could implement a more interesting version to identify a person when he reappears in totally different contexts (location, glasses, clothes, position). This could materialize with the implementation of facial recognition when possible.
